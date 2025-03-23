@@ -56,3 +56,12 @@ pip install -r requirements.txt
 cd app
 python3 -m streamlit run app.py
 ```
+
+### ⚠️ Note: Code Compatibility  
+This project was developed and tested on **Streamlit v1.43.2**.  
+Using a different Streamlit version **may cause unexpected issues**.  
+
+#### 🛠️ Check Your Current Streamlit Version  
+```bash
+streamlit --version
+
