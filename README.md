@@ -2,6 +2,10 @@
 
 ## 📌 Project Overview
 FitTrack is a fitness tracking application that utilizes **Fitbit dataset** to analyze user activity, heart rate, and other health parameters. Built using **Python** and various data analysis libraries, this project provides insights into user fitness levels.
+### Overview Dashboard
+![Activity Analysis Dashboard](Activity Dashboard.png)
+
+
 
 ## 🚀 Features
 - 📈 **Track fitness activities** from Fitbit dataset.
@@ -66,4 +70,4 @@ Using a different Streamlit version **may cause unexpected issues**.
 #### 🛠️ Check Your Current Streamlit Version  
 ```bash
 streamlit --version
-
+'''
