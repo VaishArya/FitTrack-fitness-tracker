@@ -6,7 +6,7 @@ FitTrack is a fitness tracking application that utilizes **Fitbit dataset** to a
 ![Activity Analysis Dashboard](screenshots/activity_dashboard.png)
 
 ### Deep Sleep Analysis
-![Deep Sleep Dashboard](screenshots/Deep_Sleep_analysis.png)
+![Deep Sleep Dashboard](screenshots/Deep_Sleep.png)
 
 ### Heart Analysis
 ![Heart Analysis Dashboard](screenshots/Heart_analysis_Dashboard.png)
