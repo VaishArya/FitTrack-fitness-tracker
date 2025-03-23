@@ -30,7 +30,6 @@ FitTrack is a fitness tracking application that utilizes **Fitbit dataset** to a
 ```bash
 git clone https://github.com/VaishArya/FitTrack-fitness-tracker.git
 cd FitTrack-fitness-tracker
-cd app
 ```
 
 ### 2️⃣ Create a Virtual Environment
@@ -50,4 +49,10 @@ venv\Scripts\activate
 ### 4️⃣ Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
+
+### 4️⃣ Run the Streamlit App
+```bash
+cd app
+python3 -m streamlit run app.py
 ```
