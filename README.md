@@ -15,6 +15,7 @@ FitTrack is a fitness tracking application that utilizes **Fitbit dataset** to a
 - **Dataset Source:** Fitbit
 
 ## 📂 Project Structure
+```bash
 📁 FitTrack-fitness-tracker
 │-- 📂 app/           # Main application files
 │-- 📂 analysis/      # Data processing & analysis scripts
@@ -23,6 +24,7 @@ FitTrack is a fitness tracking application that utilizes **Fitbit dataset** to a
 │-- 📜 requirements.txt  # Dependencies
 │-- 📜 .gitignore     # Ignored files
 │-- 📜 README.md      # Project documentation
+```
 
 ## 📖 Usage Instructions
 
